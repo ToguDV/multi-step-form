@@ -229,13 +229,6 @@ main {
     transition: .4s;
   }
   
-  input:checked + .slider {
-   
-  }
-  
-  input:focus + .slider {
-    
-  }
   
   input:checked + .slider:before {
     -webkit-transform: translateX(19px);
